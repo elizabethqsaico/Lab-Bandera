@@ -1,0 +1,16 @@
+div{
+	height: 50px;
+	width: 200px;	
+}
+p{
+	/* Margin 0 para no crear espacio adicional entre div */
+	padding: 10px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.amarillo{
+	background: yellow;
+}
+.rojo{
+	background: red;
+}
