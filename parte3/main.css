@@ -1,0 +1,17 @@
+div{
+	height: 50px;
+	width: 200px;
+	/* Colocar el div del costado en la misma linea*/
+	display: inline-block;
+}
+p{
+	padding: 20px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.amarillo{
+	background: yellow;
+}
+.rojo{
+	background: red;
+}
