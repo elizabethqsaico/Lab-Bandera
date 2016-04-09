@@ -1,0 +1,17 @@
+div{
+	height: 100px;
+	width: 150px;
+	/* Display Parte 1 */
+	display: inline;
+}
+p{
+	padding: 10px;
+	margin: 0;
+}
+.amarillo{
+	background: yellow;
+
+}
+.rojo{
+	background: red;
+}
